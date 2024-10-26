@@ -14,3 +14,16 @@ The following work is supported by this [implementation](https://github.com/Pris
   pages        = {1085--1089}
 }
 ```
+
+The following work is supported by this [implementation](https://github.com/Prisca-Lab/robot_quiz)
+```bibtex
+@inproceedings{vigni2023sweet,
+  title        = {Sweet robot o’mine-how a cheerful robot boosts users’ performance in a game scenario},
+  author       = {Vigni, Francesco and Andriella, Antonio and Rossi, Silvia},
+  year         = 2023,
+  booktitle    = {2023 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)},
+  pages        = {1368--1374},
+  organization = {IEEE}
+}
+```
+
